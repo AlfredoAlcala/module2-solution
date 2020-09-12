@@ -35,7 +35,7 @@ p {
 
 section {
 	border:	1px solid black;
-	background-color: #00FF99;
+	background-color:  #66d6e1;
 	width: 100%;
 	height: 200px;
 	font-family: Helvetica;
@@ -55,7 +55,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #29bbca;
+	background-color: #c21c28;
 }
 
 #beef {
@@ -69,7 +69,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #29bbca;
+	background-color:  #b31cc2 ;
 }
 
 #sushi {
@@ -82,7 +82,7 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #29bbca;
+	background-color:  #1cc253;
 	color: white;
 	padding: 5px;
 }
