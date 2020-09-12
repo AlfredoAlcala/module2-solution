@@ -13,7 +13,9 @@ h1 {
 body {
 	background-image: url("background.jpg");
 	background-color: #FEF5CA;
-	 background-repeat: no-repeat;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  	background-size: cover;
 
 }
 
